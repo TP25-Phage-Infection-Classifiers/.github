@@ -14,3 +14,4 @@ In diesem Teamprojekt werden Sie Ihr Wissen über Python auf ML und Softwareentw
 
 - [Interaktives Tutorial zu `scikit-learn`](https://inria.github.io/scikit-learn-mooc/toc.html).
 - Einführungen in [Git](https://github.com/git-guides), [GitHub](https://skills.github.com/) und [GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/quickstart-for-projects).
+- Wichtigste Aspekte der [agilen Softwareentwicklung mit Scrum](https://github.com/TP25-Phage-Infection-Classifiers/.github/wiki/Agile-Softwareentwicklung).
